@@ -219,6 +219,10 @@ nav li:not(:first-child):hover{
     font-family: 'Montserrat', sans-serif;
     margin: 67px 0;
 }
+.video-block .youtube{
+    width: 1090px;
+    height: 615px;
+}
 
 .flex-container{
     display: flex;
