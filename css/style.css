@@ -24,7 +24,8 @@ ul{
 img{
     max-width: 100%;
 }
-/*normalize_css*/
+
+/* normalize_css */
 .container{
     max-width: 1170px;
     margin: 0 auto;
@@ -42,8 +43,6 @@ img{
 }
 .tools li{
     padding: 9px 21px;
-}
-.tools li{
     border-left: 1px solid #fff;
     border-right: 1px solid #fff;
     border-top: 1px solid transparent;
@@ -149,7 +148,8 @@ nav li:not(:first-child):hover{
         content: '';
         position: absolute;
         left: 10%;
-        border: 20px solid transparent; border-top: 20px solid #c5bbac;
+        border: 20px solid transparent;
+        border-top: 20px solid #c5bbac;
     }
 }
 @media (min-width: 400px) and (max-width: 990px){
